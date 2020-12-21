@@ -1,0 +1,87 @@
+.main{
+border:solid;
+background-color :aqua;
+display:flex;
+justify-content: center ;
+text-align: center;
+}
+*{
+  background-color:yellow
+}
+.box{
+    border:solid;
+    border-color:black;
+    background-color :aqua;
+    display:flex;
+    justify-content:right;
+    }
+
+    .grid{
+     text-decoration: fuchsia;
+        background-color :rgb(255, 0, 212);
+        display:flex;
+        justify-content:center;
+        }
+    
+     
+.grid2{
+border:solid;
+border-color:gray;
+text-decoration:yellow;
+ background-color :yellow;
+ display:flex;
+ justify-content:center;
+  }
+               
+             
+.grid3{
+    border:solid;
+    border-color:gray;
+    text-decoration:yellow;
+     background-color :yellow;
+     display:flex;
+     justify-content:space-between;
+      }
+          
+                  
+.camel{
+    border:solid;
+    border-color:gray;
+     display:flex;
+     flex-wrap: wrap;
+     justify-content:space-between;
+      }
+                   
+            
+                      
+.chamaleon{
+    border:solid;
+    border-color:gray;
+     display:flex;
+     flex-wrap: wrap;
+     justify-content:space-between;
+      }
+       
+      
+      .pigeon{
+        border:solid;
+        border-color:gray;
+         display:flex;
+         flex-wrap: wrap;
+         justify-content:space-between;
+          }
+             
+          .panda{
+            border:solid;
+            border-color:gray;
+             display:flex;
+             flex-wrap: wrap;
+             justify-content:space-between;
+          }
+.teddybear{
+  border:solid;
+  border-color:gray;
+   display:flex;
+   flex-wrap: wrap;
+   justify-content:space-between;
+}
